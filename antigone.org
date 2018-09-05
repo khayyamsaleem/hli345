@@ -1,7 +1,8 @@
 #+STARTUP: showall noindent
 #+OPTIONS: toc:nil
 #+TITLE: Antigone
-#+AUTHOR: Sophocles
+#+SUBTITLE: Sophocles
+#+AUTHOR: Khayyam Saleem
 #+LaTeX_HEADER: \usepackage[margin=1.0in]{geometry}
 #+LaTeX_HEADER: \renewcommand\labelitemi{-}
 
