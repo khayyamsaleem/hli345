@@ -1,0 +1,54 @@
+#+STARTUP: showall noindent
+#+TITLE: Antigone
+#+AUTHOR: Sophocles
+#+LaTeX_HEADER: \usepackage[margin=1.0in]{geometry}
+#+LaTeX_HEADER: \renewcommand\labelitemi{-}
+
+* Characters
+- *Eteocles and Polynices*
+  - Heirs to Oedipus's throne
+  - were supposed to alternate years of rule, but Eteocles didn't give up the throne
+  - Polynices was exiled, but came back to reclaim throne
+  - war, they killed each other, leaving throne to Creon
+- *Antigone*
+  - Protagonist/Antagonist
+  - Wishes to properly bury her brother Polynices
+  - Is caught
+- *Creon*
+  - Antigone's uncle
+  - Prideful
+  - believed that his rule trumped divine rule
+  - Needed to prove himself as a new ruler
+  - wanted to show that ppl who siege the kingdome get punished
+- *Eurydice*
+  - Creon's wife
+  - Kills herself after 
+- *Ismene*
+  - Antigone's sister
+  - tries to discourage her from dissent against the will of Creon
+- *Haemon*
+  - Creon's son and Antigone's fiancée
+  - Kills himself after Antigone kills herself
+- *Chorus*
+  - Counsel to king, narrate story
+  - Split opinion about Creon's decisions
+- *Tiresias*
+  - Blind prophet, conveys will of the gods to the king
+  - Told Creon about the gods disliking the lack of burial for Polynices
+
+
+* Conflict
+ - Battle between civil law and divine law
+ - Emotion vs Practicality
+
+* Notes From Discussion
+- Hegel: "Tragedy is the opposition of two rights"
+- Tiresias is a common character, historically people don't listen to the foreshadower
+  
+* Greek Theater Design
+- Dionysus Theater
+  #+attr_latex: :width 300px
+  [[./dionysus_theater.jpg]]
+- Ruins of theater at Epidaurus, Greece
+  #+attr_latex: :width 200px
+  [[./epidaurus.jpg]]
