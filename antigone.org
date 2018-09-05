@@ -60,6 +60,9 @@
   [[./epidaurus.jpg]]
 
 * Gender Roles
+- In the end, Creon is left mourning his loss
+- Antigone has gotten her way, and lies in rest with her family, properly buried
+
 | *[[color:red][Man]]*                  | *[[color:red][Woman]]*                 |
 |------------------------+-------------------------|
 | Apollo                 | Artemis                 |
@@ -68,5 +71,3 @@
 | Stability, Consistency | Unstable, Inconsistency |
 | Strength               | Emotion                 |
 | /Antigone???/          | /Creon???/              |
-
-    
