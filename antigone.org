@@ -1,4 +1,5 @@
 #+STARTUP: showall noindent
+#+OPTIONS: toc:nil
 #+TITLE: Antigone
 #+AUTHOR: Sophocles
 #+LaTeX_HEADER: \usepackage[margin=1.0in]{geometry}
@@ -12,14 +13,15 @@
   - war, they killed each other, leaving throne to Creon
 - *Antigone*
   - Protagonist/Antagonist
-  - Wishes to properly bury her brother Polynices
-  - Is caught
+  - Wishes to properly bury her brother Polynices, but is caught
+  - Not seeking power nor revenge
+  - Just wants to do her duty as sister
 - *Creon*
   - Antigone's uncle
   - Prideful
   - believed that his rule trumped divine rule
   - Needed to prove himself as a new ruler
-  - wanted to show that ppl who siege the kingdome get punished
+  - wanted to show that ppl who siege the kingdom get punished
 - *Eurydice*
   - Creon's wife
   - Kills herself after 
@@ -40,10 +42,14 @@
 * Conflict
  - Battle between civil law and divine law
  - Emotion vs Practicality
+ - Femininity vs Masculinity
 
 * Notes From Discussion
 - Hegel: "Tragedy is the opposition of two rights"
 - Tiresias is a common character, historically people don't listen to the foreshadower
+- Creon's plan backfired
+  - He buried her alive, but she killed herself underground, so she was buried already.
+  - She robs Creon of his power
   
 * Greek Theater Design
 - Dionysus Theater
@@ -52,3 +58,15 @@
 - Ruins of theater at Epidaurus, Greece
   #+attr_latex: :width 200px
   [[./epidaurus.jpg]]
+
+* Gender Roles
+| *[[color:red][Man]]*                  | *[[color:red][Woman]]*                 |
+|------------------------+-------------------------|
+| Apollo                 | Artemis                 |
+| God of Sun             | God of the Moon         |
+| Light                  | Dark                    |
+| Stability, Consistency | Unstable, Inconsistency |
+| Strength               | Emotion                 |
+| /Antigone???/          | /Creon???/              |
+
+    
