@@ -7,14 +7,16 @@
 #+LaTeX_HEADER: \renewcommand\labelitemi{-}
 
 /Character is fate, fate is character./
-Ex: Choose between Pierce and Arthur's. 
 
 There is choice, but it doesn't matter because of fate; fate trumps opportunity.
+
+Play about theatre and ritual itself.
 
 * Characters
 - *Dionysus*
   - Born of a human mother, divine father
   - Effeminate in dress
+  - God for the common man
 - *Pentheus*
   - Murdered for not believing in Dionysus's power
 - *Cadmus*
@@ -24,6 +26,8 @@ There is choice, but it doesn't matter because of fate; fate trumps opportunity.
   - MURDER Pentheus in the name of Dionysus
 - *Tiresias*
   - Voice of reason
+- Messenger
+  - Reasonable /Bacchae/, worship Dionysus with reason and devotion
 
 * Xenophobia
 - /The Bacchae/ were Asians
@@ -32,7 +36,7 @@ There is choice, but it doesn't matter because of fate; fate trumps opportunity.
 
 * Women
 - Women had no power, could not vote
-- Two Bacchaes:
+- Two /Bacchaes/:
   - *Inside the city:* Dionysus's willing followers, came to worship him of their own volition
   - *Outside the city:* Under an enchantment, not willing followers
 
@@ -40,3 +44,9 @@ There is choice, but it doesn't matter because of fate; fate trumps opportunity.
 As much about religious ritual and tradition as anything else.
 ** Theatre is part of religious devotion.
    - Sacrifice is built in to going to the theatre to participate in these plays.
+** Dionysian worship left on its own devices is destructive.
+   - If you try to stamp out or tame the worship, it will destroy you
+   - However, if you allow for it in moderation, it is beneficial
+    - The on-stage /Bacchae/, the messengers, are the ideal _(pg. 301, line 810)_
+    - "For he is great in many other ways as well. It was he, or so they say, who gave to mortal men the gift of lovely wine by which our suffering is stopped. And if there is no gof of wine, there is no love, no Aphrodite either, nor other pleasure left to men."
+     
