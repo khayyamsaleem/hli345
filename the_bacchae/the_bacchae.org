@@ -6,11 +6,15 @@
 #+LaTeX_HEADER: \usepackage[margin=1.0in]{geometry}
 #+LaTeX_HEADER: \renewcommand\labelitemi{-}
 
-/Character is fate, fate is character./
-
-There is choice, but it doesn't matter because of fate; fate trumps opportunity.
-
-Play about theatre and ritual itself.
+* Main Ideas
+- /Character is fate, fate is character./
+- There is choice, but it doesn't matter because of fate; fate trumps opportunity.
+- Play about theatre and ritual itself.
+- /We are drawn to the transgressive. We want what we cannot have./ _(Line 503)_
+- "You do not know the limits of your strength. You do not know what you do. You do not know who you are."  _(Line 542)_
+  - Thesis of Greek plays in general; this is the ultimate sin.
+  - That lack of self-awareness and self-knowledge is DEADLY.
+-  _(Line 717)_
 
 * Characters
 - *Dionysus*
@@ -19,14 +23,15 @@ Play about theatre and ritual itself.
   - God for the common man
 - *Pentheus*
   - Murdered for not believing in Dionysus's power
+  - Sense of cultural superiority is being attacked, gets panicked
 - *Cadmus*
   - On Dionysus's side, thinks he could be a God
 - *The Bacchae*
   - Group of women that follow Dionysus without question
   - MURDER Pentheus in the name of Dionysus
 - *Tiresias*
-  - Voice of reason
-- Messenger
+  - Voice of reason, reconciles the rational with the divine
+- *Messenger*
   - Reasonable /Bacchae/, worship Dionysus with reason and devotion
 
 * Xenophobia
@@ -49,4 +54,6 @@ As much about religious ritual and tradition as anything else.
    - However, if you allow for it in moderation, it is beneficial
     - The on-stage /Bacchae/, the messengers, are the ideal _(pg. 301, line 810)_
     - "For he is great in many other ways as well. It was he, or so they say, who gave to mortal men the gift of lovely wine by which our suffering is stopped. And if there is no gof of wine, there is no love, no Aphrodite either, nor other pleasure left to men."
-     
+** The ritual is serving a purpose     
+   - Trying to comprehend the wild forces inside us, in a beneficial way.
+
