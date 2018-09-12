@@ -1,0 +1,42 @@
+#+STARTUP: showall noindent
+#+OPTIONS: toc:nil
+#+TITLE: The Bacchae
+#+SUBTITLE: Euripides
+#+AUTHOR: Khayyam Saleem
+#+LaTeX_HEADER: \usepackage[margin=1.0in]{geometry}
+#+LaTeX_HEADER: \renewcommand\labelitemi{-}
+
+/Character is fate, fate is character./
+Ex: Choose between Pierce and Arthur's. 
+
+There is choice, but it doesn't matter because of fate; fate trumps opportunity.
+
+* Characters
+- *Dionysus*
+  - Born of a human mother, divine father
+  - Effeminate in dress
+- *Pentheus*
+  - Murdered for not believing in Dionysus's power
+- *Cadmus*
+  - On Dionysus's side, thinks he could be a God
+- *The Bacchae*
+  - Group of women that follow Dionysus without question
+  - MURDER Pentheus in the name of Dionysus
+- *Tiresias*
+  - Voice of reason
+
+* Xenophobia
+- /The Bacchae/ were Asians
+- Greeks believed that all outsiders were barbarians. 
+- Athens was a paradox, in that it was a democracy.
+
+* Women
+- Women had no power, could not vote
+- Two Bacchaes:
+  - *Inside the city:* Dionysus's willing followers, came to worship him of their own volition
+  - *Outside the city:* Under an enchantment, not willing followers
+
+* Worship and Devotion
+As much about religious ritual and tradition as anything else.
+** Theatre is part of religious devotion.
+   - Sacrifice is built in to going to the theatre to participate in these plays.
