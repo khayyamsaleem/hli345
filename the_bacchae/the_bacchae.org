@@ -10,11 +10,7 @@
 - /Character is fate, fate is character./
 - There is choice, but it doesn't matter because of fate; fate trumps opportunity.
 - Play about theatre and ritual itself.
-- /We are drawn to the transgressive. We want what we cannot have./ _(Line 503)_
-- "You do not know the limits of your strength. You do not know what you do. You do not know who you are."  _(Line 542)_
-  - Thesis of Greek plays in general; this is the ultimate sin.
-  - That lack of self-awareness and self-knowledge is DEADLY.
--  _(Line 717)_
+  
 
 * Characters
 - *Dionysus*
@@ -48,12 +44,27 @@
 * Worship and Devotion
 As much about religious ritual and tradition as anything else.
 ** Theatre is part of religious devotion.
-   - Sacrifice is built in to going to the theatre to participate in these plays.
+- Sacrifice is built in to going to the theatre to participate in these plays.
 ** Dionysian worship left on its own devices is destructive.
-   - If you try to stamp out or tame the worship, it will destroy you
-   - However, if you allow for it in moderation, it is beneficial
-    - The on-stage /Bacchae/, the messengers, are the ideal _(pg. 301, line 810)_
-    - "For he is great in many other ways as well. It was he, or so they say, who gave to mortal men the gift of lovely wine by which our suffering is stopped. And if there is no gof of wine, there is no love, no Aphrodite either, nor other pleasure left to men."
+- If you try to stamp out or tame the worship, it will destroy you
+- However, if you allow for it in moderation, it is beneficial
+  - The on-stage /Bacchae/, the messengers, are the ideal _(pg. 301, line 810)_
+  - "For he is great in many other ways as well. It was he, or so they say, who gave to mortal men the gift of lovely wine by which our suffering is stopped. And if there is no gof of wine, there is no love, no Aphrodite either, nor other pleasure left to men."
 ** The ritual is serving a purpose     
-   - Trying to comprehend the wild forces inside us, in a beneficial way.
+- Trying to comprehend the wild forces inside us, in a beneficial way.
 
+
+* Quotes 
+- "Mark my words, Pentheus. Do not be so certain that power is what matters in the life of man; do not mistake for wisdom the fantasies of your sick mind." _(Line 332)_
+- /We are drawn to the transgressive. We want what we cannot have./ _(Line 503)_
+- _(Line 509)_
+    | /P/ | Tell me the benefits that those who know your mysteries enjoy. |
+    | /D/ | I am forbidden to say. But they are worth knowing.             |
+    | /P/ | Your answers are designed to make me curious.                  |
+    | /D/ | No: our mysteries abhor an unbelieving man.                    |
+
+- "You do not know the limits of your strength. You do not know what you do. You do not know who you are."  _(Line 542)_
+  - Thesis of Greek plays in general; this is the ultimate sin.
+  - That lack of self-awareness and self-knowledge is DEADLY.
+- "A man, a man, and nothing more, yet he presumed to wage a war with god." _(Line 672)_
+- "They humble us with death that we remember what we are who are not god, but men. We run to death. Wherefore, I say, accept, accept: humility is wise; humility is blest." _(Line 1054)_

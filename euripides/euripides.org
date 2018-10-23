@@ -1,0 +1,23 @@
+#+STARTUP: noindent showall
+#+TITLE: Euripides
+#+OPTIONS: toc:nil num:nil
+#+LaTeX_HEADER: \usepackage[margin=1.0in]{geometry}
+#+LaTeX_HEADER: \renewcommand\labelitemi{-}
+
+* General
+- ca. 480 - 406 B.C.E
+- One of the most powerful playwrights in Athens.
+- born into a wealthy family, but didn't participate in public life
+- people objected to his irreverent depiction of the gods
+- often relied on /Deus Ex Machina/
+
+* Writing
+- Inaugurated a new form of tragedy
+- attuned to a _growing skepticism toward inherited truths_
+- treats gods and heroes with suspicion
+  - making them more human
+  - exposing their frailties
+  - and bringing them closer to everyday reality.
+- made tragedy more realistic, more concerned with individual character, and more flexible in its endings
+- did not fear going against custom and common decency
+

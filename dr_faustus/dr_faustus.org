@@ -1,0 +1,24 @@
+#+STARTUP: noindent showall
+#+TITLE: The Tragical History of Doctor Faustus
+#+SUBTITLE: Christopher Marlowe
+#+OPTIONS: toc:nil
+#+LaTeX_HEADER: \usepackage[margin=1.0in]{geometry}
+#+LaTeX_HEADER: \renewcommand\labelitemi{-}
+
+* Main Idea
+- a consummate scholar's embrace of necromancy to gain a "world of profit and delight."
+- Dr. Faustus, unsatisfied by Logic and the sciences, sold his soul to the devil for power.
+- employed forbidden means to achieve his most extravagant dreams and ambitions
+- dared to do more than heavenly power permitted
+- play dramatizes how little Faustus receives in return for his investment and how fiercely he strives to repent before the clock runs out and Mephistopheles comes to claim him.
+- Wishes to repent at the end, but Mephistopheles bullies him back into submission
+  - Believes himself to be beyond forgiveness
+- Was his damnation because he was prideful? Or was it the fault of Calvinism?
+- Failed to take advantage of "learning's golden gifts."
+
+* Quotes
+- "A greater subject fitteth Faustus' wit." _(Line 11)_
+- "Yet art thou still but Faustus, and a man." _(Line 23)_
+
+* Notable Moments
+- Mephistopheles obeys at first, lures Faustus in
