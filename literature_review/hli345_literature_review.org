@@ -1,4 +1,4 @@
-#+TITLE: HLI345 Literature Review
+#+TITLE: HLI345 Final Paper -- Literature Review
 #+SUBTITLE: Moral, Scientific, and Religious Perspectives on the Bargain in /Doctor Faustus/
 #+STARTUP: noindent showall
 #+OPTIONS: toc:nil num:nil
