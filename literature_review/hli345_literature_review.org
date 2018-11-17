@@ -4,6 +4,8 @@
 #+OPTIONS: toc:nil num:nil
 #+DATE: 16 Nov 2018
 #+LaTeX_HEADER: \usepackage[1.0in]{geometry}
+#+LATEX_HEADER: \usepackage{parskip}
+#+LATEX_HEADER: \setlength{\parindent}{0cm}
 
 * Goals and Direction of Final Paper
 For my research, I intend to address the interaction between morality, Christian values and themes, and the pursuit of knowledge as seen in Christopher Marlowe's /The Tragical History of the Life and Death of Doctor Faustus/, with a focus on the bargain with the devil and what it entailed. As we were able to discuss in lecture, Marlowe blends comedy and tragedy in this tale to preach the dangers of hubris, being unaware of one's place and limitations, and neglecting repentance in favor of stubbornness. He makes a deal with Lucifer, brokered by Mephistopheles, and because of the aforementioned fatal flaws, Doctor Faustus meets a grim and unforgiving end. However, beyond the surface level themes posed in the drama, Marlowe additionally offers a thorough look into the temporal context in which the tale was penned. Though the tale was clearly blasphemous by the standards of the Elizabethan society of the time it was written, /Doctor Faustus/ was able to show us the conflict that sometimes arises between science and religion, and how these two forces make it difficult to determine the morality of human action.
@@ -26,3 +28,31 @@ In this reference, Mizener makes the argument that Faustus is meant to earn our 
 ** [[https://www.jstor.org/stable/2871873?seq=1#metadata_info_tab_contents][The Comic Synthesis in Doctor Faustus]]
 ** [[https://www.jstor.org/stable/449293?seq=1#metadata_info_tab_contents][The Orthodox Christian Framework of Marlowe's Faustus]]
 ** [[https://www.jstor.org/stable/1261310?seq=1#metadata_info_tab_contents][Marlowe and God: The Tragic Theology of Dr. Faustus]]
+
+
+#+Begin_Latex
+\pagebreak
+#+End_Latex
+
+#+BEGIN_CENTER
+Works Cited
+#+END_CENTER
+
+\hangindent=0.5in Marlowe, Christopher. The Tragical History of the Life and Death of Doctor Faustus. Clarendon Press, 1970.
+
+\hangindent=0.5in Mizener, Arthur. “The Tragedy of Marlowe's Doctor Faustus.” College English, vol. 5, no. 2, 1943, pp. 70–75. JSTOR, JSTOR, www.jstor.org/stable/370963.
+
+\hangindent=0.5in O'Brien, Margaret Ann. “Christian Belief in Doctor Faustus.” ELH, vol. 37, no. 1, 1970, pp. 1–11. JSTOR, JSTOR, www.jstor.org/stable/2872271.
+
+\hangindent=0.5in Ornstein, Robert. “Marlowe and God: The Tragic Theology of Dr. Faustus.” PMLA, vol. 83, no. 5, 1968, pp. 1378–1385. JSTOR, JSTOR, www.jstor.org/stable/1261310.
+
+\hangindent=0.5in Ornstein, Robert. “The Comic Synthesis in Doctor Faustus.” ELH, vol. 22, no. 3, 1955, pp. 165–172. JSTOR, JSTOR, www.jstor.org/stable/2871873.
+
+\hangindent=0.5in Parker, John. "Faustus, Confession, and the Sins of Omission." Elh 80.1 (2013): 29-59. ProQuest. Web. 16 Nov. 2018.
+
+\hangindent=0.5in Schuler, D. "Doctor Faustus in the twenty-first century." AI and Society (2013) 28: 257. www.doi.org/10.1007/s00146-012-0411-5
+
+\hangindent=0.5in Sullivan, Ceri. “Faustus and the Apple.” The Review of English Studies, vol. 47, no. 185, 1996, pp. 47–50. JSTOR, JSTOR, www.jstor.org/stable/518380.
+
+\hangindent=0.5in Westlund, Joseph. “The Orthodox Christian Framework of Marlowe's Faustus.” Studies in English Literature, 1500-1900, vol. 3, no. 2, 1963, pp. 191–205. JSTOR, JSTOR, www.jstor.org/stable/449293.
+
