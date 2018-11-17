@@ -5,3 +5,5 @@ _minted*
 *.pdf
 missfont.log
 *#
+.DS_Store
+*.odt
