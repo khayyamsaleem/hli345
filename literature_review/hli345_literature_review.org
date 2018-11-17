@@ -1,0 +1,25 @@
+#+TITLE: HLI345 Literature Review
+#+SUBTITLE: Moral, Scientific, and Religious Perspectives on the Bargain in /Doctor Faustus/
+#+STARTUP: noindent showall
+#+OPTIONS: toc:nil num:nil
+#+DATE: 16 Nov 2018
+#+LaTeX_HEADER: \usepackage[1.0in]{geometry}
+
+* Goals and Direction of Final Paper
+For my research, I intend to address the interaction between morality, Christian values and themes, and the pursuit of knowledge as seen in Christopher Marlowe's /The Tragical History of the Life and Death of Doctor Faustus/, with a focus on the bargain and what it entailed. As we were able to discuss in lecture, Marlowe blends comedy and tragedy in this tale to preach the dangers of hubris, being unaware of one's place and limitations, and neglecting repentance in favor of stubbornness. Because of these fatal flaws, Doctor Faustus meets a grim and unforgiving end. However, beyond the surface level themes posed in the drama, Marlowe additionally offers a thorough look into the temporal context in which the tale was penned. Though the tale was clearly blasphemous by the standards of the Elizabethan sociey of the time it was written, /Doctor Faustus/ was able to show us the conflict that sometimes arises between science and religion, and how these two forces make it difficult to determine the morality of human action.
+
+After an individual analysis of each perspective on the bargain (moral, scientific, and religious), I wish to describe the interaction of all the perspectives. The tale did not formally take the side of either Lucifer or God, nor did it attempt to choose between religion or science. Marlowe simply described the plight of Doctor Faustus, and it is left to the audience to ask these questions of themselves. With my paper, I hope to provide an inquisitive audience with more tools to understand how the pursuit of knowledge and the values of Christianity butt heads in Doctor Faustus, and how they contribute to the question of determining the moral parity of the bargain, and whether or not it was ill-intentioned.
+
+* Expected Reference Literature
+** [[https://www.jstor.org/stable/pdf/518380.pdf?refreqid=excelsior%3A1bdcc318f53f2fb72f2fecb30dd0bd5e][Faustus and the Apple]]
+This paper, though short, offers valuable perspectives on different justifications of Doctor Faustus's actions. It compares Doctor Faustus's pursuit of knowledge to the forbidden apple in the biblical Garden of Eden. This paper aptly describes the precise actions and moments in the text that damn Doctor Faustus, and under which idealogies he is damned. It takes a more objective view on the bargain, contesting against the typical understanding that Doctor Faustus's bargain was foolish. It factors in consciousness of the sin and its ramifications, as well as intent, in determination of the morality of the bargain. These considerations provide the kind of holistic view I wished to present in my paper, so this reference will surely be a valuable asset.
+** [[https://search.proquest.com/docview/1424322802/fulltext/143D9FCB4C2D4A8CPQ/1?accountid=14052][Faustus, Confession, and the Sins of Omission]]
+
+** [[https://link.springer.com/article/10.1007/s00146-012-0411-5][Doctor Faustus in the twenty-first century]]
+** [[https://www.jstor.org/stable/2872271?seq=4#metadata_info_tab_contents][Christian Belief in Doctor Faustus]]
+** [[https://www.jstor.org/stable/370963?seq=1#metadata_info_tab_contents][The Tragedy of Marlowe's /Doctor Faustus/]]
+
+* Other Reference Literature in Consideration
+** [[https://www.jstor.org/stable/2871873?seq=1#metadata_info_tab_contents][The Comic Synthesis in Doctor Faustus]]
+** [[https://www.jstor.org/stable/449293?seq=1#metadata_info_tab_contents][The Orthodox Christian Framework of Marlowe's Faustus]]
+** [[https://www.jstor.org/stable/1261310?seq=1#metadata_info_tab_contents][Marlowe and God: The Tragic Theology of Dr. Faustus]]
